@@ -40,43 +40,28 @@
 
 <br>
 
-## ✦ Featured work
+<img src="./assets/divider.svg" width="100%" alt="">
+
+<img src="./assets/header-featured.svg" width="100%" alt="Built, shipped, shared">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### [firedamp](https://github.com/pr60t/firedamp)
-Canaries for your RAG stack. Detect the leak before it reaches a user.
-
-`Python` · 🔐 AI security
-
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/pr60t/firedamp"><img src="./assets/card-firedamp.svg" width="100%" alt="firedamp"></a>
+  <p>Canaries for your RAG stack. Detect the leak before it reaches a user.</p>
 </td>
-<td width="50%" valign="top">
-
-### [chrona](https://github.com/pr60t/chrona)
-[one-line description of chrona]
-
-`Kotlin` · 🛠 Build in progress
-
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/pr60t/chrona"><img src="./assets/card-chrona.svg" width="100%" alt="chrona"></a>
+  <p>[one-line description of chrona]</p>
 </td>
 </tr>
 </table>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="">
 
-## ✦ Toolbox
+<img src="./assets/header-toolbox.svg" width="100%" alt="The tools behind the work">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-0F3B3F?style=for-the-badge&logo=python&logoColor=FFB547" alt="Python">
-<img src="https://img.shields.io/badge/Kotlin-0F3B3F?style=for-the-badge&logo=kotlin&logoColor=FFB547" alt="Kotlin">
-<img src="https://img.shields.io/badge/HTML-0F3B3F?style=for-the-badge&logo=html5&logoColor=FFB547" alt="HTML">
-<img src="https://img.shields.io/badge/Shell-0F3B3F?style=for-the-badge&logo=gnubash&logoColor=FFB547" alt="Shell">
-<img src="https://img.shields.io/badge/Git-0F3B3F?style=for-the-badge&logo=git&logoColor=FFB547" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0F3B3F?style=for-the-badge&logo=github&logoColor=FFB547" alt="GitHub">
-
-</div>
+<img src="./assets/stack-marquee.svg" width="100%" alt="Python, Kotlin, HTML, Shell, Git, GitHub, AI engineering, security">
 
 <details>
 <summary><b>Current focus and build queue</b></summary>
@@ -90,9 +75,9 @@ Canaries for your RAG stack. Detect the leak before it reaches a user.
 
 </details>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="">
 
-## ✦ Signal
+<img src="./assets/header-signal.svg" width="100%" alt="Momentum, made visible">
 
 <div align="center">
 <table>
@@ -109,9 +94,9 @@ Canaries for your RAG stack. Detect the leak before it reaches a user.
 <img src="https://streak-stats.demolab.com?user=pr60t&hide_border=true&background=0F3B3F&ring=FFB547&fire=FFB547&currStreakNum=F4E9D3&sideNums=F4E9D3&currStreakLabel=FFB547&sideLabels=FFB547&dates=9FB8B4" alt="Streak stats">
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="">
 
-## ✦ The trail behind the work
+<img src="./assets/header-trail.svg" width="100%" alt="The trail behind the work">
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr60t&custom_title=Every%20day%20leaves%20a%20trace&bg_color=0F3B3F&color=F4E9D3&line=FFB547&point=F4E9D3&area=true&area_color=FFB547&hide_border=true" alt="Contribution activity graph" width="100%">
@@ -125,11 +110,7 @@ Canaries for your RAG stack. Detect the leak before it reaches a user.
 </picture>
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="./assets/logo.svg" alt="D" width="56">
+<img src="./assets/divider.svg" width="100%" alt=""><img src="./assets/logo.svg" alt="D" width="56">
 
 <sub>Make something worth noticing.</sub>
 
